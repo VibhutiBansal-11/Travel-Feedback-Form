@@ -111,7 +111,7 @@ void loading()
     int delay;
     cout<<"\n\n\n\n\n\n\t\t\t\t  Loading "<<'\n'<<'\t'<<'\t';
     for(int j=1;j<=i;j++)
-    cout<<"²";
+    cout<<"Â²";
     cout<<"\n\n\t "<<2*i<<"%";
     if( i > 1 && i < 20)
     cout<<"\n\n\tConnecting to server";
